@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "d880250e5949d9c82590db06044fd71f",
+const RESOURCES = {"flutter_bootstrap.js": "f521c4dbdf38c2610f9026fe840125a0",
 "assets/assets/dublinbikes.json": "43e4c4806796fbc29dbbe02ba3403b54",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "f333b3218b71a6f8a617e3f50c605a7e",
@@ -18,7 +18,7 @@ const RESOURCES = {"flutter_bootstrap.js": "d880250e5949d9c82590db06044fd71f",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/AssetManifest.bin.json": "25818c270fae5cafe2ffa7673424b1b1",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"main.dart.js": "3a0be4546f3557d9ecab6e44d03c65ec",
+"main.dart.js": "854fc83b1e2b2935ecaf4cf8b923397a",
 "manifest.json": "b657dd08e8ee83d23efdb599f81a5018",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
