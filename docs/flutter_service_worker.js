@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "a67774fa45c41b5f2f8faa5c8f4ab068",
+const RESOURCES = {"flutter_bootstrap.js": "4ba6868a9984a86b9b151735de654271",
 "assets/assets/heatmapdata.json": "51e20195ee638fcf2ed471ea51fb536c",
 "assets/assets/dublinbikes.json": "43e4c4806796fbc29dbbe02ba3403b54",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
