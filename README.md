@@ -25,7 +25,7 @@ Dublin is a vibrant city with a growing cycling community. This app makes naviga
 ## 📱 **Demo Preview**
 Check out a live demo of the app in action! 🚴‍♀️💨
 
-[**Live Demo Link**] (Add demo link here)
+[**Live Demo**](https://rarroyo00.github.io/bike_routes_demo/)
 
 ## 🚀 **Technologies Used**
 
